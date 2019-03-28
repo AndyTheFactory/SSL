@@ -1,0 +1,10 @@
+tf-nightly-gpu
+pandas
+scikit-learn
+scipy
+numpy
+nltk
+matplotlib
+h5py
+statsmodels
+mlxtend
